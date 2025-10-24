@@ -1,4 +1,4 @@
-import sys
+import  sys
 
 NESTED_MORSE = {
 	" ": "/", "A": ".-", "B": "-...", "C": "-.-.", "D": "-..", "E": ".",
